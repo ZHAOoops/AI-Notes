@@ -11,7 +11,7 @@
 
 **Open Source Slides for AI Education.**
 
-这里存放我 B站 视频教程的配套 **PPTX 课件 (可编辑)** 及其 **PDF 格式**，也会有一些涉及到的代码。持续更新中...
+这里存放我 B站 视频的配套 **PPTX 课件 (可编辑)** 及其 **PDF 格式**，也会有一些涉及到的代码。持续更新中...
 
 *"Talk is cheap, show me the math."*
 
