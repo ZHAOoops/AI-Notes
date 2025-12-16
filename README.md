@@ -15,7 +15,33 @@
 
 *"Talk is cheap, show me the math."*
 
+<br>
+<div align="center">
+  <h3>✨ 内容速览：从原理到实战 (Highlights)</h3>
+  
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        < img src="./images/concept_diagram.png" alt="原理清晰图示" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>🧠 原理清晰图示 (Conceptual Diagram)</sub>
+      </td>
+
+      <td align="center" width="33%">
+        < img src="./images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>✏️ 清晰数学推导 (Rigorous Math Derivation)</sub>
+      </td>
+
+      <td align="center" width="33%">
+        < img src="./images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>💻 实战代码讲解 (Practical Code Walkthrough)</sub>
+      </td>
+    </tr>
+  </table>
 </div>
+<br>
 
 ---
 
