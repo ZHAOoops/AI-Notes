@@ -18,7 +18,7 @@
 <br>
 ### ✨ 内容速览：从原理到实战 (Highlights)
 
-| 🧠 原理清晰图示 (Concept) | ✏️ 清晰数学推导 (Math) | 💻 实战代码讲解 (Code) |
+| 🧠 原理清晰图示| ✏️ 详尽数学推导| 💻 实战代码讲解|
 | :---: | :---: | :---: |
 | <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/concept_diagram.png?v=1" width="100%"> | <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/math_derivation.png?v=1" width="100%"> | <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/code_walkthrough.png?v=1" width="100%"> |
 
