@@ -11,7 +11,7 @@
 
 **Open Source Slides for AI Education.**
 
-这里存放我 B站 视频教程的配套 **PPTX 课件 (可编辑)** 与 **PDF 格式**，也会有一些涉及到的代码。持续更新中...
+这里存放我 B站 视频教程的配套 **PPTX 课件 (可编辑)** 及其 **PDF 格式**，也会有一些涉及到的代码。持续更新中...
 
 *"Talk is cheap, show me the math."*
 
@@ -28,13 +28,13 @@
       </td>
 
       <td align="center" width="33%">
-        <img src="./images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
+        <img src="https://github.com/ZHAOoops/AI-Notes/blob/main/images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
         <br>
         <sub>✏️ 清晰数学推导 (Rigorous Math Derivation)</sub>
       </td>
 
       <td align="center" width="33%">
-        <img src="./images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
+        <img src="https://github.com/ZHAOoops/AI-Notes/blob/main/images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
         <br>
         <sub>💻 实战代码讲解 (Practical Code Walkthrough)</sub>
       </td>
