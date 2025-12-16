@@ -2,20 +2,46 @@
 # 人工智能算法笔记：从数学原理到代码实战
 
 <div align="center">
-  <a href=" ">
-    < img src="https://img.shields.io/badge/Bilibili-东川路第一可爱猫猫虫-FF69B4?logo=bilibili&style=for-the-badge" alt="Bilibili">
-  </a >
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-东川路第一可爱猫猫虫-FF69B4?logo=bilibili&style=for-the-badge)](https://space.bilibili.com/675505667)
+![Focus](https://img.shields.io/badge/Focus-DeepSeek%20%2F%20PPO%20%2F%20LoRA-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge)
+
+<br>
+
+**Open Source Slides for AI Education.**
+
+这里存放我 B站 视频教程的配套 **PPTX 课件 (可编辑)** 与 **PDF 格式**，也会有一些涉及到的代码。持续更新中...
+
+*"Talk is cheap, show me the math."*
+
+<br>
+<div align="center">
+  <h3>✨ 内容速览：从原理到实战 (Highlights)</h3>
   
-  < img src="https://img.shields.io/badge/Focus-DeepSeek%20%2F%20PPO%20%2F%20LoRA-blue?style=for-the-badge">
-  < img src="https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge">
-  
-  <br><br>
-  <b>Open Source Slides for AI Education.</b>
-  <br>
-  这里存放我 B站 视频的配套 <b>PPTX 课件 (可编辑)</b> 与 <b>对应的PDF 格式</b>，也会有一些涉及到的代码。持续更新中...
-  <br>
-  <i>"Talk is cheap, show me the math."</i>
+  <table width="100%">
+    <tr>
+      <td align="center" width="33%">
+        < img src="./images/concept_diagram.png" alt="原理清晰图示" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>🧠 原理清晰图示 (Conceptual Diagram)</sub>
+      </td>
+
+      <td align="center" width="33%">
+        < img src="./images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>✏️ 清晰数学推导 (Rigorous Math Derivation)</sub>
+      </td>
+
+      <td align="center" width="33%">
+        < img src="./images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
+        <br>
+        <sub>💻 实战代码讲解 (Practical Code Walkthrough)</sub>
+      </td>
+    </tr>
+  </table>
 </div>
+<br>
 
 ---
 
