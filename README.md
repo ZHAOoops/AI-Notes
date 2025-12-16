@@ -19,7 +19,7 @@
 <div align="center">
   <h3>✨ 内容速览：从原理到实战 (Highlights)</h3>
   
-  <table width="100%">
+  <table width="100%" style="table-layout: fixed;">
     <tr>
       <td align="center" width="33%">
         <img src="./images/concept_diagram.png" alt="原理清晰图示" width="100%" style="border-radius: 5px;">
