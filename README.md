@@ -22,19 +22,19 @@
   <table width="100%" style="table-layout: fixed;">
     <tr>
       <td align="center" width="33%">
-        <img src="./images/concept_diagram.png" alt="原理清晰图示" width="100%" style="border-radius: 5px;">
+        <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/concept_diagram.png" alt="原理清晰图示" width="100%" style="border-radius: 5px;">
         <br>
         <sub>🧠 原理清晰图示 (Conceptual Diagram)</sub>
       </td>
 
       <td align="center" width="33%">
-        <img src="https://github.com/ZHAOoops/AI-Notes/blob/main/images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
+        <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/math_derivation.png" alt="清晰数学推导" width="100%" style="border-radius: 5px;">
         <br>
         <sub>✏️ 清晰数学推导 (Rigorous Math Derivation)</sub>
       </td>
 
       <td align="center" width="33%">
-        <img src="https://github.com/ZHAOoops/AI-Notes/blob/main/images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
+        <img src="https://raw.githubusercontent.com/ZHAOoops/AI-Notes/main/images/code_walkthrough.png" alt="实战代码讲解" width="100%" style="border-radius: 5px;">
         <br>
         <sub>💻 实战代码讲解 (Practical Code Walkthrough)</sub>
       </td>
