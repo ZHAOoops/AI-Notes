@@ -58,7 +58,7 @@
 
 | Topic (点击观看视频)                                                                                                        | Slides (Download) | Keywords |
 |:----------------------------------------------------------------------------------------------------------------------| :--- | :--- |
-| [**零基础入门强化学习&Q-Learning**]()https://www.bilibili.com/video/BV1Cmx9zgEDy/?spm_id_from=333.1387.upload.video_card.click | [PPTX](./02_RL/RLfromScratch-Ql.pptx) \| [PDF](./02_RL/RLfromScratch-Ql.pdf) | `Bellman Equation` `Table-based` |
+| [**零基础入门强化学习&Q-Learning**](https://www.bilibili.com/video/BV1Cmx9zgEDy/?spm_id_from=333.1387.upload.video_card.click) | [PPTX](./02_RL/RLfromScratch-Ql.pptx) \| [PDF](./02_RL/RLfromScratch-Ql.pdf) | `Bellman Equation` `Table-based` |
 | [**DQN (Deep Q-Network)**](https://www.bilibili.com/video/BV1YexvzTE6V/?spm_id_from=333.1387.upload.video_card.click) | [PPTX](./02_RL/DQN.pptx) \| [PDF](./02_RL/DQN.pdf) | `Replay Buffer` `Target Net` |
 | [**Policy Gradient (PG)**](https://www.bilibili.com/video/BV14Tx2zsEHo/?spm_id_from=333.1387.upload.video_card.click) | [PPTX](./02_RL/PolicyGradient.pptx) \| [PDF](./02_RL/PolicyGradient.pdf) | `REINFORCE` `Log_prob` |
 | [**Actor-Critic (AC)**](https://www.bilibili.com/video/BV1vXWYzbE31/?spm_id_from=333.1387.upload.video_card.click)    | [PPTX](./02_RL/Actor-Critic.pptx) \| [PDF](./02_RL/Actor-Critic.pdf) | `Advantage` `TD Error` |
