@@ -48,6 +48,7 @@
 | [**LoRA: 反向传播与梯度计算**](https://www.bilibili.com/video/BV1kHJCzdEYY/?spm_id_from=333.1387.upload.video_card.click)                  | [PPTX](./01_LLM_Base/LoRA.pptx) \| [PDF](./01_LLM_Base/LoRA.pdf) | `Backprop` `Parameter Efficient` |
 | [**LoRA: 初始化策略 (Init)**](https://www.bilibili.com/video/BV1YDngzDEgn/?spm_id_from=333.1387.upload.video_card.click)               | [PPTX](./01_LLM_Base/LoRA_initialization.pptx) \| [PDF](./01_LLM_Base/LoRA_initialization.pdf) | `Zero Init` `Gaussian` |
 | [**信息论基础: 熵与KL散度**](https://www.bilibili.com/video/BV1JrCsBCE8D/?spm_id_from=333.1387.upload.video_card.click)                                                                                                             | [PPTX](./01_LLM_Base/entropy-KLdivg.pptx) \| [PDF](./01_LLM_Base/entropy-KLdivg.pdf) | `Shannon Entropy` `Cross-Entropy` |
+| [**从残差连接到字节跳动_HC到Deepseek_mHC**](https://www.bilibili.com/video/BV19MiFBCEDr)                                                                                                            | [PPTX](./01_LLM_Base/Deepseek_mHC.pptx) \| [PDF](./01_LLM_Base/Deepseek_mHC.pdf) | `mHC` `HyperConnections` |
 
 ---
 
@@ -68,6 +69,8 @@
 | [**PPO: Part 1 核心原理**](https://www.bilibili.com/video/BV1rVCcB1EDT/?spm_id_from=333.1387.upload.video_card.click)                                                                                              | [PPTX](./02_RL/PPO.pptx) \| [PDF](./02_RL/PPO.pdf) | `Clip` `Objective Function` |
 | [**PPO: Part 2 完整实现&SB3代码解读**](https://www.bilibili.com/video/BV1KxSTBpEiW/?spm_id_from=333.1387.upload.video_card.click)                                                                                      | [PPTX](./02_RL/PPO-SB3.pptx) \| [PDF](./02_RL/PPO-SB3.pdf) | `Stable-Baselines3` `Implementation` |
 | [**GAE (Generalized Advantage Est.)**](https://www.bilibili.com/video/BV1zKycBVEtc/?spm_id_from=333.1387.upload.video_card.click)                                                                              | [PPTX](./02_RL/GAE.pptx) \| [PDF](./02_RL/GAE.pdf) | `Bias-Variance Tradeoff` `Lambda` |
+| [**从PPO到RLHF（1）**](https://www.bilibili.com/video/BV14iqWBqEEY)                                                                              | [PPTX](./02_RL/fromPPOtoPPORLHF(1).pptx) \| [PDF](./02_RL/fromPPOtoPPORLHF(1).pdf) | `RLHF` |
+| [**从PPO到RLHF（2）**](https://www.bilibili.com/video/BV1VyqVBnELG)                                                                              | [PPTX](./02_RL/fromPPOtoPPORLHF(2).pptx) \| [PDF](./02_RL/fromPPOtoPPORLHF(2).pdf) | `RLHF` `PPO` |
 
 ---
 
