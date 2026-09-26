@@ -4,7 +4,6 @@
 <div align="center">
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-东川路第一可爱猫猫虫-FF69B4?logo=bilibili&style=for-the-badge)](https://space.bilibili.com/675505667)
-![Focus](https://img.shields.io/badge/Focus-DeepSeek%20%2F%20PPO%20%2F%20LoRA-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=for-the-badge)
 
 <br>
@@ -16,8 +15,6 @@
 这里存放我视频的配套 **PPTX 课件 (可编辑)** 及其 **PDF 格式**，也会有一些涉及到的代码
 
 持续更新中...
-
-*"Talk is cheap, show me the math."*
 
 <br>
 
